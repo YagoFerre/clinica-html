@@ -1,5 +1,6 @@
 # Clínica YF
-### Fiz um site de uma clínica com objetivo de fixar o HTML e suas Tags.
+## Fiz um site de uma clínica com objetivo de fixar o HTML e suas Tags.
+Aqui está o link do site: [Clínica YF](https://yagoferre.github.io/clinica-html/)
 
 #### Página Principal com uma breve discrição da clínica.
 ![principal](https://user-images.githubusercontent.com/103700322/199295659-22011b78-bc8a-4903-8702-69e89562177c.png)
